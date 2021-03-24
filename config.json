@@ -1,4 +1,7 @@
 {
   "mode": "false",
-  "link": "https://google.com"
+  "links" {
+    "1": "https://google.com",
+    "2": "https://yandex.com"
+  }
 }
